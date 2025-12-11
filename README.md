@@ -63,21 +63,21 @@ The aim of this test suite is to ensure **reliability, functional accuracy, and 
 ## 📁 Project Structure
 
 TestUI/
-│
-├── Tests/
-│   ├── LoginTest.cs
-│   ├── RegisterTest.cs
-│   ├── CheckEmailTest.cs
-│   ├── ResetPasswordTest.cs
-│   ├── HomePageTest.cs
-│   ├── ProfilePageTest.cs
-│   ├── GoalTest.cs
-│   ├── SituationTest.cs
-│
-├── Program.cs
-├── TestUI.sln
-├── .gitignore
-└── README.md
+|
++-- Tests/
+|   +-- LoginTest.cs
+|   +-- RegisterTest.cs
+|   +-- CheckEmailTest.cs
+|   +-- ResetPasswordTest.cs
+|   +-- HomePageTest.cs
+|   +-- ProfilePageTest.cs
+|   +-- GoalTest.cs
+|   +-- SituationTest.cs
+|
++-- Program.cs
++-- TestUI.sln
++-- .gitignore
++-- README.md
 
 ---
 
